@@ -8,10 +8,10 @@
 }
 
 :root {
-    --color-background:#470000;
-    --color-surface:#770000;
-    --color-primary:#FF0000;
-    --color-text:#FFFFFF;
+    --color-background: #470000;
+    --color-surface: #770000;
+    --color-primary: #FF0000;
+    --color-text: #FFFFFF;
 }
 
 body {
