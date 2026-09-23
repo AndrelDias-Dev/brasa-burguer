@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    /* reset */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-background:#470000;
+    --color-surface:#770000;
+    --color-primary:#FF0000;
+    --color-text:#FFFFFF;
+}
+
+body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: "DM Sans", sans-serif;
+}
+
+h1, h2 {
+    font-family: "Anton", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+button {
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+}
